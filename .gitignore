@@ -1,0 +1,23 @@
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+
+
+### Python ###
+__pycache__/
+*.py[cod]
+
+
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+.env
+db.sqlite3
+
+
+### Venv ###
+.virtenv
